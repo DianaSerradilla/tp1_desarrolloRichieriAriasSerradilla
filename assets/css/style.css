@@ -138,7 +138,7 @@ a {
   font-size: .9rem;
 }
 
-.button-banner a:hover {
+#button-banner a:hover {
   background-color: #547568;
 }
 
@@ -696,11 +696,11 @@ margin-bottom: 4rem;
   font-size: .9rem;
 }
 
-.boton_pfrecuentes a:hover {
+#boton_pfrecuentes a:hover {
   background: #547568;
 }
 
-.boton_pfrecuentes::after {
+#boton_pfrecuentes::after {
   content: url(../icons/arrow.svg);
   vertical-align: middle;
   padding-left: 0.3rem;
