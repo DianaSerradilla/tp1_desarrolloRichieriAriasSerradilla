@@ -260,11 +260,11 @@ a {
   font-size: .9rem;
 }
 
-.boton_entrenador a:hover {
+#boton_entrenador a:hover {
   background: #766161;
 }
 
-.boton_entrenador a::after {
+#boton_entrenador a::after {
   content: url(../icons/arrow.svg);
   vertical-align: middle;
   padding-left: 0.3rem;
